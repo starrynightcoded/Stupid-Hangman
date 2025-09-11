@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 using namespace std;
-string arr[] = {"alphabet", "horse", "cat", "Spiral"};
+string arr[] = {"alphabet", "horse", "cat", "orca"};
 
 void clean(vector <int> & indexes){
     for(int i=0; i<indexes.size(); i++){
@@ -113,3 +113,4 @@ int main(){
     }
     return 0;
 }
+
