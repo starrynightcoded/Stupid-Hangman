@@ -1,3 +1,0 @@
-# Stupid-Hangman
-you will realise why I named it that...
-late night coding translates to sad coding ://// I don't have the energy to remove the unnecessary functions pls (⁠ﾉ⁠≧⁠∇⁠≦⁠)⁠ﾉ⁠ ⁠ﾐ⁠ ⁠┻⁠━⁠┻
